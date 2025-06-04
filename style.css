@@ -8,3 +8,9 @@
             color: aqua;
             background-color: crimson;
         }
+        .border{
+            border: 2px solid burlywood;
+            /* border-border-bottom-style: dotted; */
+            padding-left:10px;
+            padding-top: 20px;
+        }
